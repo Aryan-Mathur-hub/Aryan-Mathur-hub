@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-mathur-hub&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-mathur-hub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan-mathur-hub" alt="aryan-mathur-hub" /></a> </p>
-
 - 🔭 I’m currently working on website development. **Website for Kunal Enterprises**
 
 - 🌱 I’m currently learning AI & ML. **Machine Learning, Deep Learning**
